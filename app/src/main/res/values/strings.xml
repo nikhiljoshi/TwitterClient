@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nik Tweet Client</string>
+    <string name="action_tweet">Tweet</string>
+    <string name="logo_des">logo des image</string>
+    <string name="no_data">why</string>
+    <string name="send_tweet">Send tweet</string>
+    <string name="login">Please log in with your Twitter account</string>
+    <string name="failed_msg">Sending tweet failed…</string>
+    <string name="tweet_success">Success</string>
+    <string name="welcome_msg">Welcome to Nik Tweet Client</string>
+    <string name="tweetnow">Tweet Now</string>
+    <string name="title_activity">Tweet Client</string>
+</resources>
